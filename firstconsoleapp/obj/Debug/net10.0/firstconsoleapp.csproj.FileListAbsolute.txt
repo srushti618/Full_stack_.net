@@ -1,0 +1,14 @@
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\bin\Debug\net10.0\firstconsoleapp.exe
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\bin\Debug\net10.0\firstconsoleapp.deps.json
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\bin\Debug\net10.0\firstconsoleapp.runtimeconfig.json
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\bin\Debug\net10.0\firstconsoleapp.dll
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\bin\Debug\net10.0\firstconsoleapp.pdb
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.AssemblyInfoInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.AssemblyInfo.cs
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.dll
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\refint\firstconsoleapp.dll
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.pdb
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\firstconsoleapp.genruntimeconfig.cache
+C:\Users\SHRUSHTI\Downloads\practical\firstconsoleapp\obj\Debug\net10.0\ref\firstconsoleapp.dll
