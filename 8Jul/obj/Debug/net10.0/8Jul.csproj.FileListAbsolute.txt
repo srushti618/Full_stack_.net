@@ -1,0 +1,15 @@
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\bin\Debug\net10.0\8Jul.exe
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\bin\Debug\net10.0\8Jul.deps.json
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\bin\Debug\net10.0\8Jul.runtimeconfig.json
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\bin\Debug\net10.0\8Jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\bin\Debug\net10.0\8Jul.pdb
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.AssemblyInfoInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.AssemblyInfo.cs
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.csproj.CoreCompileInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.sourcelink.json
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\refint\8Jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.pdb
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\8Jul.genruntimeconfig.cache
+C:\Users\SHRUSHTI\Downloads\practical\8Jul\obj\Debug\net10.0\ref\8Jul.dll
