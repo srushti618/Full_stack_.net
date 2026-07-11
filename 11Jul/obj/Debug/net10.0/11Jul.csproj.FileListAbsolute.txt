@@ -1,0 +1,15 @@
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.AssemblyInfoInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.AssemblyInfo.cs
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.csproj.CoreCompileInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.sourcelink.json
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\bin\Debug\net10.0\11Jul.exe
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\bin\Debug\net10.0\11Jul.deps.json
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\bin\Debug\net10.0\11Jul.runtimeconfig.json
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\bin\Debug\net10.0\11Jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\bin\Debug\net10.0\11Jul.pdb
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\refint\11Jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.pdb
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\11Jul.genruntimeconfig.cache
+C:\Users\SHRUSHTI\Downloads\practical\11Jul\obj\Debug\net10.0\ref\11Jul.dll
