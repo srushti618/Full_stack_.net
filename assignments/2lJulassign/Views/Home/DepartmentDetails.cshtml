@@ -1,0 +1,21 @@
+﻿@model EmployeeManagementSystem.Models.Department
+@{
+    ViewBag.Title = "Department Details";
+}
+
+<h2>Department Details</h2>
+<table border="1" cellpadding="10">
+    <tr>
+        <th>Department Name</th>
+        <th>Head</th>
+        <th>Contact</th>
+        <th>Email</th>
+    </tr>
+    <tr>
+        <td>@Model.DeptName</td>
+        <td>@Model.DeptHead</td>
+        <td>@Model.HeadContact</td>
+        <td>@Model.HeadEmail</td>
+    </tr>
+</table>
+
