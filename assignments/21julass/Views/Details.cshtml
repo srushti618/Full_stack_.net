@@ -1,0 +1,36 @@
+﻿@model EmployeeManagementSystem.Models.Department
+@{
+    ViewBag.Title = "Department Details";
+}
+
+<h2>Enter Department Details</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.DepartmentName)
+    @Html.TextBoxFor(m => m.DepartmentName)
+    @Html.ValidationMessageFor(m => m.DepartmentName)
+
+    <br />
+
+    @Html.LabelFor(m => m.DepartmentHead)
+    @Html.TextBoxFor(m => m.DepartmentHead)
+    @Html.ValidationMessageFor(m => m.DepartmentHead)
+
+    <br />
+
+    @Html.LabelFor(m => m.HeadContactNumber)
+    @Html.TextBoxFor(m => m.HeadContactNumber)
+    @Html.ValidationMessageFor(m => m.HeadContactNumber)
+
+    <br />
+
+    @Html.LabelFor(m => m.HeadEmail)
+    @Html.TextBoxFor(m => m.HeadEmail)
+    @Html.ValidationMessageFor(m => m.HeadEmail)
+
+    <br />
+
+    <input type="submit" value="Submit" />
+}
+
