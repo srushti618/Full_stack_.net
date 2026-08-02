@@ -1,40 +1,30 @@
 ﻿@model EmployeeManagementSystem.Models.Employee
-@{
-    ViewBag.Title = "Employee Registration";
-}
-
 <h2>Employee Registration</h2>
-
 @using (Html.BeginForm())
 {
     @Html.LabelFor(m => m.EmployeeId)
     @Html.TextBoxFor(m => m.EmployeeId)
     @Html.ValidationMessageFor(m => m.EmployeeId)
-
     <br />
 
     @Html.LabelFor(m => m.EmployeeName)
     @Html.TextBoxFor(m => m.EmployeeName)
     @Html.ValidationMessageFor(m => m.EmployeeName)
-
     <br />
 
     @Html.LabelFor(m => m.Department)
     @Html.TextBoxFor(m => m.Department)
     @Html.ValidationMessageFor(m => m.Department)
-
     <br />
 
     @Html.LabelFor(m => m.Salary)
     @Html.TextBoxFor(m => m.Salary)
     @Html.ValidationMessageFor(m => m.Salary)
-
     <br />
 
     @Html.LabelFor(m => m.Email)
     @Html.TextBoxFor(m => m.Email)
     @Html.ValidationMessageFor(m => m.Email)
-
     <br />
 
     <input type="submit" value="Register" />

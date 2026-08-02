@@ -10,12 +10,11 @@ namespace EmployeeManagementSystem.Models
         [Required]
         public string DeptHead { get; set; }
 
-        [Required]
-        [Phone(ErrorMessage = "Invalid Contact Number")]
+        [Required, Phone]
         public string HeadContact { get; set; }
 
-        [Required]
-        [EmailAddress(ErrorMessage = "Invalid Email")]
+        [Required, EmailAddress]
         public string HeadEmail { get; set; }
     }
 }
+

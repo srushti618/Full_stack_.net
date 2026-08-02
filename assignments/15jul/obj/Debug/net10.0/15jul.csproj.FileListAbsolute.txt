@@ -1,0 +1,15 @@
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\bin\Debug\net10.0\15jul.exe
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\bin\Debug\net10.0\15jul.deps.json
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\bin\Debug\net10.0\15jul.runtimeconfig.json
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\bin\Debug\net10.0\15jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\bin\Debug\net10.0\15jul.pdb
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.AssemblyInfoInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.AssemblyInfo.cs
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.csproj.CoreCompileInputs.cache
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.sourcelink.json
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\refint\15jul.dll
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.pdb
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\15jul.genruntimeconfig.cache
+C:\Users\SHRUSHTI\Downloads\practical\assignments\15jul\obj\Debug\net10.0\ref\15jul.dll

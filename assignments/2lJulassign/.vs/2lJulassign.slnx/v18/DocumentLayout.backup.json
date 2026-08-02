@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\views\\home\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|solutionrelative:views\\home\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|solutionrelative:views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\views\\home\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|solutionrelative:views\\home\\departmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|solutionrelative:views\\home\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91F52330-1FB4-4D8A-868E-3FB86BB8645D}|2lJulassign.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|c:\\users\\shrushti\\downloads\\practical\\assignments\\2ljulassign\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD3273A-BDB6-8D42-02D6-B252471E1578}|2lJulassign.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,58 +34,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\DepartmentDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\DepartmentDetails.cshtml",
-              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\DepartmentDetails.cshtml*",
-              "RelativeToolTip": "Views\\Home\\DepartmentDetails.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-07-23T01:43:42.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Success.cshtml",
               "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\Success.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Success.cshtml",
-              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\Success.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Success.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\Success.cshtml",
+              "RelativeToolTip": "Views\\Home\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-23T01:43:11.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
-              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\Register.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Register.cshtml*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-07-23T01:42:34.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Controllers\\EmployeeController.cs*",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T01:40:41.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\DepartmentDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DepartmentDetails.cshtml",
+              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Views\\Home\\DepartmentDetails.cshtml",
+              "RelativeToolTip": "Views\\Home\\DepartmentDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-23T01:43:42.601Z",
               "EditorCaption": ""
             },
             {
@@ -94,11 +94,11 @@
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Models\\Department.cs",
-              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Models\\Department.cs*",
-              "RelativeToolTip": "Models\\Department.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T01:39:51.962Z",
+              "WhenOpened": "2026-07-27T01:42:49.316Z",
               "EditorCaption": ""
             },
             {
@@ -107,9 +107,9 @@
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Models\\Employee.cs*",
-              "RelativeToolTip": "Models\\Employee.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SHRUSHTI\\Downloads\\practical\\assignments\\2lJulassign\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T01:39:07.374Z",
               "EditorCaption": ""

@@ -6,13 +6,8 @@ namespace EmployeeManagementSystem.Controllers
 {
     public class EmployeeController : Controller
     {
-        // GET: Employee Registration Form
-        public ActionResult Register()
-        {
-            return View();
-        }
+        public ActionResult Register() => View();
 
-        // POST: Employee Registration
         [HttpPost]
         public ActionResult Register(Employee emp)
         {
@@ -34,7 +29,7 @@ namespace EmployeeManagementSystem.Controllers
 
         public ActionResult DepartmentDetails()
         {
-            Department dept = new Department
+            var dept = new Department
             {
                 DeptName = "IT",
                 DeptHead = "Priya",
@@ -45,4 +40,3 @@ namespace EmployeeManagementSystem.Controllers
         }
     }
 }
-
